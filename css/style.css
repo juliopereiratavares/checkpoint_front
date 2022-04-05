@@ -25,4 +25,5 @@ ul li{
   height: 543px;
   width: 100%;
   background-size: 100%;
+  background-repeat: no-repeat;
 }
