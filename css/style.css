@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.menu {
+  width: 100%;
+  height: 170px;
+  background-color: #E355E5;
+  display: inline-block;
+}
+
+.logo {
+ 
+}
+
+ul li{
+  display: inline-block;
+  font-family: ;
+}
+
+.folder {
+  background-image: url(../img/folder.jpg);
+  height: 543px;
+  width: 100%;
+  background-size: 100%;
+}
